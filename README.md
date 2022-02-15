@@ -1,3 +1,4 @@
-# CECS-282
-# Spring 2022
-# CSULB
+CECS-282 
+C++
+Spring 2022
+CSULB
